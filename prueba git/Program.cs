@@ -11,6 +11,7 @@ namespace prueba_git
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo!!!!!");
+            Console.WriteLine("Adios!!!");
             Console.ReadKey();
         }
     }
